@@ -1,0 +1,11 @@
+body{
+    background-color: #66dbaa;
+ }
+ h1{
+    color: rgb(29, 22, 79);
+ }
+ .img-thumbnail {
+   width: 60px;
+   height: 60px;
+ }
+ 
